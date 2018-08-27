@@ -1,0 +1,12 @@
+{
+  "name": "file-transfer-application",
+  "version": "1.0.0",
+  "description": "Application for transfering file from one directory to another",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mayur",
+  "license": "ISC",
+  "dependencies": {}
+}
